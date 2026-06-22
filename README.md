@@ -63,7 +63,7 @@ Add screenshots of the workflow and conversation examples in this section.
 
 ### n8n Workflow
 
-![Workflow](.//workflow.png)
+![Workflow](./images/workflow.png)
 
 ## What I Learned
 
@@ -91,3 +91,14 @@ During the development of this project, I practiced and improved skills related 
 **Leandro Jesus**
 
 Full Stack Developer with a focus on Artificial Intelligence, Automation, and Blockchain Technologies.
+
+# tags
+n8n
+telegram
+ai-agent
+artificial-intelligence
+cohere
+mysql
+automation
+chatbot
+hr-tech
